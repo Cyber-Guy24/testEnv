@@ -1,3 +1,4 @@
+echo hello world
 echo will begin script
 
 if name == $name:
