@@ -2,7 +2,7 @@
 
 cd /Documents
 
-echo This script will begin update brew
+echo This script will begin to update brew
 
 brew update
 
